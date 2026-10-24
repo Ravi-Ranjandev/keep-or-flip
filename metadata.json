@@ -1,0 +1,6 @@
+{
+  "name": "Keep or Flip",
+  "description": "Gallery cleaner and storage optimizer to keep or flip photos with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
